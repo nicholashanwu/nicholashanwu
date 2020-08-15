@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[linkedin]
 
+[<img align="left" alt="nicholaswu | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -35,3 +35,6 @@
 <img align="left" alt="Gradle" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
 <img align="left" alt="Scikit Learn" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="TensorFlow" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
