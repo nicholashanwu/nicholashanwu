@@ -33,15 +33,3 @@
 
 
 
-
-
-<br />
-<br />
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="nicholashanwu's Github Stats" src="https://github-readme-stats.nicholashanwu.vercel.app/api?username=nicholashanwu&show_icons=true&hide_border=true" />
-
-</details>
